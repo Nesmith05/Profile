@@ -7,11 +7,13 @@
     /* padding: 80px; */
     /* overflow: auto; */
     margin: 0em auto;
+
 }
 body {
     background-image: url("../images/ep_naturalblack.png");
     font-family: 'Vollkorn', serif;
     font-size: 20px;
+    
 }
 div {
     display: block;
@@ -19,6 +21,10 @@ div {
 h1 {
     text-align: center;
     /* padding: 20px; */
+}
+h5 {
+    padding-bottom: 30px;
+    text-align: center;
 }
 
 img {
@@ -32,6 +38,7 @@ header {
     color: aliceblue;
     font-size: 48px;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    text-align: center;
 }
 #sidebar {
 
@@ -39,7 +46,7 @@ header {
     /* height: 500px; */
     /* padding: 10px; */
     background-color: rgb(220, 220, 220);;
-
+    padding-right: 50px;
     text-align: center;
   
 
@@ -71,4 +78,8 @@ footer {
     margin-left: 40px;
     text-align: center;
 
+}
+footer {
+    margin-top: 40px;
+    text-align: center;
 }
