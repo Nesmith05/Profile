@@ -20,7 +20,6 @@ div {
 }
 h1 {
     text-align: center;
-    /* padding: 20px; */
 }
 h5 {
     padding-bottom: 30px;
@@ -30,9 +29,7 @@ h5 {
 img {
     margin-left: 110px;
     margin-top: 20px;
-    /* align-content: center;
-    /* align-self: center; */
-    /* align-items: right; */ 
+
 }
 header {
     color: aliceblue;
